@@ -1,5 +1,5 @@
 # Desktop and mobile app
-Software made with Electron and mobile web application
+Software made with Electron | Windows and mobile web application
 
 
 
